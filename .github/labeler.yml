@@ -1,0 +1,40 @@
+# Configuration for automatic labeling of issues
+# https://github.com/github/issue-labeler
+
+# Label issues based on title and body content
+
+# DLP (Data Loss Prevention) related issues
+dlp:
+  - 'data loss prevention'
+  - 'DLP'
+  - 'policy'
+  - 'policies'
+
+# Lab related issues  
+lab:
+  - 'lab'
+  - 'exercise'
+  - 'hands-on'
+  - 'tutorial'
+
+# Documentation issues
+documentation:
+  - 'documentation'
+  - 'docs'
+  - 'readme'
+  - 'guide'
+
+# Bug reports
+bug:
+  - 'bug'
+  - 'error'
+  - 'issue'
+  - 'problem'
+  - 'fix'
+
+# Feature requests
+enhancement:
+  - 'feature'
+  - 'enhancement'
+  - 'improvement'
+  - 'request'
