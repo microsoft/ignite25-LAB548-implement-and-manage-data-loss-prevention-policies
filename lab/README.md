@@ -1,31 +1,24 @@
-
-
-These instructions are for participants of the **instructor-led** Workshop "SESSIONNAME" at Microsoft AI Tour 2026.  Register to attend in a city near you at [Microsoft AI Tour](https://aitour.microsoft.com/).
+These instructions are for participants of the **instructor-led** Workshop **Implement and Manage Data Loss Prevention policies** at Microsoft AI Tour 2026.  Register to attend in a city near you at [Microsoft AI Tour](https://aitour.microsoft.com/).
 
 ## Lab Overview
 
-In this hands-on workshop, you’ll learn to ....
+In this hands-on workshop, you'll use Microsoft Purview Data Loss Prevention (DLP) to protect sensitive data across Microsoft 365 Copilot and AI environments. You'll create and test DLP policies, configure endpoint restrictions for AI websites, and optionally enable Adaptive Protection to apply safeguards dynamically based on user risk.
 
-If you're not a workshop participant at AI Tour, try this code yourself at ....
+If you're not attending AI Tour, you can still complete this lab using your own Microsoft 365 E5 environment with Microsoft Purview DLP, Insider Risk Management, and Adaptive Protection enabled.
 
 ## Pre-Requisites
 
-To participate in this workshop, you will need:
+To participate in this workshop, you'll need:
 
-1. Your own laptop.
-   * It need only be capable of running a browser and GitHub Codespaces, so almost any laptop will do.
-   * A recent version of Edge, Chrome or Safari is recommended.
-2. Prerequisite #2
-3. Prerequisite #3
+1. A laptop with internet access
+   - A recent version of Microsoft Edge, Google Chrome, or Safari is recommended
+1. A Microsoft 365 E5 tenant with Microsoft Purview DLP and Insider Risk Management enabled
+1. Access to the Microsoft Purview portal (https://purview.microsoft.com)
 
 ## Get Started
 
-To get started you will need to
+To get started, open the [lab instructions](./instructions/DLP-1-data-loss-prevention.md) in this repository. If time allows, continue to the [bonus task](./instructions/DLP-2-bonus-adaptive-protection.md) to extend your configuration with Adaptive Protection.
 
 ## Discussions
 
-Build your first agent with Azure AI Agent Service is an open source project supported by Microsoft. See the [SUPPORT.md](../SUPPORT.md) file for details on how to raise issues or contribute. If you enjoyed this workshop please give the repository a ⭐ and share it with others.
-
-## Source code
-
-The source code for this session can be found in the [src folder](../src) of this repo.
+This workshop is part of the Microsoft AI Tour hands-on learning track. If you have feedback or encounter issues, please refer to the [SUPPORT.md](../SUPPORT.md) file for guidance on how to raise issues or contribute. If you found this session helpful, consider giving the repository a ⭐ on GitHub and sharing it with your peers.
