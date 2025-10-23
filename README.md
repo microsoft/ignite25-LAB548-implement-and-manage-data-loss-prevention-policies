@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥BRKXXX: Implement and Manage Data Loss Prevention policies
+## 🔥LAB548: Implement and Manage Data Loss Prevention policies
 
 *Learn how to use Microsoft Purview DLP and Adaptive Protection to safeguard sensitive data in Copilot and AI environments.*
 
