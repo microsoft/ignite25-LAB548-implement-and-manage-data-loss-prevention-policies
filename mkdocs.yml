@@ -19,15 +19,15 @@
 
 
 # Project information .........................................
-site_name: "Session Title"
+site_name: "Implement and Manage Data Loss Prevention policies"
 site_url: 
 site_author: Content Creator
 site_description: >-
   Demo mkdocs for Ignite Repos
 
 # Repository ..................................................
-repo_name: microsoft/Ignite25-Repo-Template
-repo_url: https://github.com/microsoft/Ignite25-Repo-Template
+repo_name: microsoft/ignite25-LAB548-implement-and-manage-data-loss-prevention-policies
+repo_url: https://github.com/microsoft/ignite25-LAB548-implement-and-manage-data-loss-prevention-policies
 
 # Copyright ...................................................
 copyright: >
